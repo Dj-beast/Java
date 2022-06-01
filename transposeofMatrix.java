@@ -28,3 +28,4 @@ sc.close();
     }
     
 }
+//transpose
